@@ -1,5 +1,12 @@
 # Sintesi 2024
 
+#### Corsi di alta formazione
+
+![](img/sintesi.png)
+
+[https://www.e-sintesi.it/](https://www.e-sintesi.it/)
+Via Ciccotti, 36 - 85100 Potenza (PZ)
+
 ## Corso Java Spring Framework
 
 ### Parte 1 - Apache Maven
